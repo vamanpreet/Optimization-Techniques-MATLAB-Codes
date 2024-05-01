@@ -8,7 +8,7 @@
 ### 6.[Sleepest Method]
 
 [Graphical Method]: https://github.com/vamanpreet/Optimization-Techniques-MATLAB-Codes/blob/main/Graphical_method.m
-[Basic Feasible Solution (BFS) Method]: https://github.com/vamanpreet/Optimization-Techniques-MATLAB-Codes/blob/main/Basic_feasible.m
+[Basic Feasible Soultion (BFS) Method]: https://github.com/vamanpreet/Optimization-Techniques-MATLAB-Codes/blob/main/Basic_feasible.m
 [Simplex Method]: https://github.com/vamanpreet/Optimization-Techniques-MATLAB-Codes/blob/main/Simplex_method.m
 [Big M Method]: https://github.com/vamanpreet/Optimization-Techniques-MATLAB-Codes/blob/main/BigM.m
 [Least Cost Transportation Method]: https://github.com/vamanpreet/Optimization-Techniques-MATLAB-Codes/blob/main/least_cost.m
